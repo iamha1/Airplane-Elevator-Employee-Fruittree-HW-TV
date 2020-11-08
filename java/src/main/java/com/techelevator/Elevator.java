@@ -1,4 +1,4 @@
-package com.techelevator;
+package java.practice;
 
 public class Elevator {
 	private int currentFloor = 1;
