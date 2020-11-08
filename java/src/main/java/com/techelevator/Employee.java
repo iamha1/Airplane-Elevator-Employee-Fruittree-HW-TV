@@ -1,4 +1,4 @@
-package com.techelevator;
+package java.practice;
 
 public class Employee {
 	private int employeeId;
