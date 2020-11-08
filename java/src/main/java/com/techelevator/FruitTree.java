@@ -1,4 +1,4 @@
-package com.techelevator;
+package java.practice;
 
 public class FruitTree {
 	private String typeOfFruit;
